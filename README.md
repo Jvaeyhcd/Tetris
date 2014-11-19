@@ -1,4 +1,5 @@
 Tetris
 ======
 
-Tetris is a classic game.It's write by android studio.I only upload the main source.
+Tetris is a classic game which is write by android studio.
+You can create a android sutdio project and clone the source to the project.
